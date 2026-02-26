@@ -108,5 +108,5 @@ Focused on:
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=VIJAY_YADALA&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=YADALAVIJAY&theme=dark&hide_border=true" alt="Streak" />
 </div>
