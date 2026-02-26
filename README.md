@@ -1,5 +1,5 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
+<img align="center" width="100%" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Microservices+Enthusiast" />
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>YADALA VIJAY</strong>
