@@ -1,6 +1,4 @@
-<!-- Top Animated Banner -->
-<img align="center" width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YADALA%20VIJAY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
@@ -10,9 +8,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,
 <h3>Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
 <div align="left">
-
-  <!-- 🔥 Your New Java Full Stack Image -->
-  <img align="right" width="420" src="YOUR_IMAGE_LINK_HERE" />
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     Passionate <strong>Java Full Stack Developer</strong> focused on building 
@@ -31,13 +27,12 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,
   <p>
     <img src="https://img.shields.io/badge/📍_India-1e1e2e?style=for-the-badge" />
     <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-Yadala_Vijay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Yadala_Vijay-1e1e2e?style=for-the-badge" />
     </a>
     <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/GitHub-Yadala_Vijay-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-Yadala_Vijay-1e1e2e?style=for-the-badge" />
     </a>
   </p>
-
 </div>
 
 <br clear="all" />
@@ -57,7 +52,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,
 
 Spring Boot • REST APIs • JWT Authentication  
 Hibernate • JPA • Microservices Architecture  
-
 </td>
 
 <td width="50%" align="center">
@@ -68,7 +62,6 @@ Hibernate • JPA • Microservices Architecture
 
 React JS • Responsive UI  
 SPA Development • API Integration  
-
 </td>
 </tr>
 </table>
@@ -79,10 +72,11 @@ SPA Development • API Integration
 ## 🛠 Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
 </p>
 
-Git • GitHub • Docker • Maven • Postman • Linux  
+Git & GitHub • Docker • Maven  
+Postman • CI/CD Basics  
 
 ---
 
@@ -102,10 +96,10 @@ Focused on:
 
 ## 🚀 Current Goals
 
-• Master Advanced Spring Boot  
-• Build Real-Time Microservices Projects  
-• Improve DSA & Problem Solving  
-• Contribute to Open Source  
+• Mastering Java & Spring Boot  
+• Building Real-Time Full Stack Projects  
+• Strengthening Microservices Architecture  
+• Improving Problem Solving & DSA  
 
 ---
 
@@ -113,21 +107,5 @@ Focused on:
 
 <div align="center">
   <br/>
-  <img height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <img 
-  src="https://streak-stats.demolab.com?user=yourgithubusername&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=dark&hide_border=true" alt="Streak" />
 </div>
-
----
-
-<!-- Bottom Animated Footer -->
-<img align="center" width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
