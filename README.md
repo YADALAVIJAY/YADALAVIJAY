@@ -17,7 +17,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=300
   </p>
 
   <p>
-    My primary focus:
+  <b>  My primary focus:</b>
     <br/>• Backend Development using Spring Boot  
     <br/>• REST API Design & Microservices  
     <br/>• Database Design (MySQL & PostgreSQL)  
