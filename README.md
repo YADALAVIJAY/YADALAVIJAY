@@ -30,7 +30,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=300
     <a href="https://www.linkedin.com/">
       <img src="https://img.shields.io/badge/LinkedIn-Yadala_Vijay-1e1e2e?style=for-the-badge" />
     </a>
-    <a href="[https://yadalavijay.github.io/portfolio1/]">
+    <a href="https://yadalavijay.github.io/portfolio1/">
       <img src="https://img.shields.io/badge/Portfolio-Yadala_Vijay-1e1e2e?style=for-the-badge" />
     </a>
   </p>
