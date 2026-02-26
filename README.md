@@ -109,4 +109,4 @@ Focused on:
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=YADALAVIJAY&theme=dark&hide_border=true" alt="Streak" />
-</div> replace github with portfolio
+</div> 
