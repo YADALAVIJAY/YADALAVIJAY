@@ -1,111 +1,113 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- Animated Header Banner -->
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YADALA%20VIJAY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>YADALA VIJAY</strong>
+<h1 align="center">
+  Hi 👋, I'm <strong>YADALA VIJAY</strong>
 </h1>
 
-<h3>Java Full Stack Developer | Spring Boot | React | MySQL</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Expert;React+JS+Developer;Microservices+Enthusiast;Building+Scalable+Web+Applications" />
+  </a>
+</h3>
+
+---
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-    Passionate <strong>Java Full Stack Developer</strong> focused on building 
-    scalable, secure, and real-world web applications.
-  </p>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-  <p>
-    My primary focus:
-    <br/>• Backend Development using Spring Boot  
-    <br/>• REST API Design & Microservices  
-    <br/>• Database Design (MySQL & PostgreSQL)  
-    <br/>• Frontend Development using React  
-    <br/>• Authentication & Secure Web Applications  
-  </p>
+### 👨‍💻 About Me
 
-  <p>
-    <img src="https://img.shields.io/badge/📍_India-1e1e2e?style=for-the-badge" />
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-Yadala_Vijay-1e1e2e?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/GitHub-Yadala_Vijay-1e1e2e?style=for-the-badge" />
-    </a>
-  </p>
+- 💻 Passionate **Java Full Stack Developer**
+- 🚀 Building real-world scalable web applications
+- 🔐 Focused on secure authentication systems
+- 🧠 Strong in DSA & problem solving
+- 🌍 Based in India
+
+<br/>
+
+### 🎯 Primary Focus
+
+• Backend Development using Spring Boot  
+• REST API & Microservices Architecture  
+• Database Design (MySQL & PostgreSQL)  
+• Frontend Development using React  
+• JWT Authentication & Secure Sessions  
+
 </div>
 
 <br clear="all" />
 
 ---
 
-## 💻 Core Tech Stack
+# 💻 Tech Stack
+
+## 🖥 Backend
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>🖥 Backend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
-<br/><br/>
-
-Spring Boot • REST APIs • JWT Authentication  
-Hibernate • JPA • Microservices Architecture  
-</td>
-
-<td width="50%" align="center">
-<h3>🌐 Frontend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-<br/><br/>
-
-React JS • Responsive UI  
-SPA Development • API Integration  
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,maven" />
 </p>
+
+Spring Boot • REST APIs • JPA • Hibernate • JWT • Microservices  
+
+---
+
+## 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+React JS • Responsive UI • API Integration • SPA Development  
 
 ---
 
 ## 🛠 Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
 </p>
 
-Git & GitHub • Docker • Maven  
-Postman • CI/CD Basics  
+Git • GitHub • Docker • Postman • Linux  
 
 ---
 
-## 🎓 Education
+# 🚀 Current Goals
 
-**B.Tech (2023 – 2027)**  
-
-Focused on:
-
-• Data Structures & Algorithms  
-• Operating Systems  
-• Database Management Systems  
-• Computer Networks  
-• Software Engineering  
+- 🔥 Master Advanced Spring Boot
+- ⚡ Build Real-Time Microservices Projects
+- 📈 Improve Data Structures & Algorithms
+- 🧩 Contribute to Open Source Projects
 
 ---
 
-## 🚀 Current Goals
-
-• Mastering Java & Spring Boot  
-• Building Real-Time Full Stack Projects  
-• Strengthening Microservices Architecture  
-• Improving Problem Solving & DSA  
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=dark&hide_border=true" alt="Streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yadala_Vijay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Yadala_Vijay-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
